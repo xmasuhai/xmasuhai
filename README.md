@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-<!-- **xmasuhai/xmasuhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
 | __Hi, I am Joel! 👋__<br/><br/>1. 🔭 I’m currently working on Shanghai, China<br/>2. 🌱 I’m currently learning Vue, React<br/>3. 📫 How to reach me: xmasuhai@163.com<br/>4. 💬 Leave me a word : https://github.com/xmasuhai/blogs/issues/new | [![xmasuhai's github stats](https://github-readme-stats.vercel.app/api?username=xmasuhai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
@@ -24,3 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
