@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
-**xmasuhai/xmasuhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **xmasuhai/xmasuhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| __Hi, I am Jimmy! 👋__<br/><br/>1. 🔭 I’m currently working on Canton, China<br/>2. 🌱 I’m currently learning MySql, Egg<br/>3. 📫 How to reach me: reng99@outlook.com<br/>4. 💬 Leave me a word : https://github.com/reng99/blogs/issues/new | [![reng99's github stats](https://github-readme-stats.vercel.app/api?username=reng99&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+| __Hi, I am Joel! 👋__<br/><br/>1. 🔭 I’m currently working on Shanghai, China<br/>2. 🌱 I’m currently learning Vue, React<br/>3. 📫 How to reach me: xmasuhai@163.com<br/>4. 💬 Leave me a word : https://github.com/xmasuhai/blogs/issues/new | [![xmasuhai's github stats](https://github-readme-stats.vercel.app/api?username=xmasuhai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?xmasuhai=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
