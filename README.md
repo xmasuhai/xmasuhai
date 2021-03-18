@@ -11,7 +11,7 @@
 
 |技术栈|
 |----------------------------------------------------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmasuhai&hide=GLSL,Rust,Python,Assembly,Objective-C&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmasuhai&hide=Ruby,XSLT&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
 ## 开发工具
 <table><tr><td valign="top" width="33%">
