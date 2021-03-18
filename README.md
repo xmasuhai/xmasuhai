@@ -9,11 +9,11 @@
 |[![xmasuhai's github stats](https://github-readme-stats.vercel.app/api?username=xmasuhai&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 
 
-|技术栈 与 开发工具|
+|技术栈|
 |----------------------------------------------------------------------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,Rust,Python,Assembly,Objective-C&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
 
-## My Skill Set  
+## 开发工具
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
