@@ -12,3 +12,5 @@
 </details>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Xmasuhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmasuhai&count_private=true)
+![Xmasuhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmasuhai&show_icons=true)
