@@ -18,7 +18,7 @@
 
 ### Frontend
 
-<details style="cursor: pointer;">
+<details open style="cursor: pointer;">
   <summary>技术栈 与 开发工具:</summary>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
