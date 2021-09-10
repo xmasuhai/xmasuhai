@@ -13,7 +13,7 @@
 |----------------------------------------------------------------------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmasuhai&hide=HTML,Ruby,XSLT&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
-## 开发工具
+## 技术
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
