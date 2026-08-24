@@ -2,7 +2,7 @@
 
 |Base Info|
 |----------------------------------------------------------------------|
-| __Hi, I am Joel! 👋__<br/><br/>1. 🔭 I’m currently working in Shanghai, China<br/>2. 🌱 I’m currently learning Vue, React<br/>3. 📫 How to reach me: xmasuhai@163.com<br/>4. 💬 Leave me a word : https://github.com/xmasuhai/xmasuhai.github.io/issues/new<br/>🤔 I’m looking for a front-end job.<br/> |
+| __Hi, I am Joel! 👋__<br/><br/>1. 🔭 I’m currently working in Shanghai, China<br/>2. 🌱 I’m currently learning Frontend tech, a bit of Backend Tech <br/>3. 📫 How to reach me: xmasuhai@163.com<br/>4. 💬 Leave me a word : https://github.com/xmasuhai/xmasuhai.github.io/issues/new<br/>🤔 I’m looking for a front-end job.<br/> |
 
 |Dashboard Data|
 |----------------------------------------------------------------------|
