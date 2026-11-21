@@ -11,7 +11,7 @@
 
 |技术栈|
 |----------------------------------------------------------------------|
-|[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=xmasuhai&hide=HTML,XSLT&langs_count=10&layout=compact)](https://github.com/stats-organization/github-stats-extended)|
+|[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=xmasuhai&hide=HTML,XSLT&langs_count=12&layout=compact)](https://github.com/stats-organization/github-stats-extended)|
 
 ## 技术
 <table><tr><td valign="top" width="33%">
